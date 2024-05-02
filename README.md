@@ -5,8 +5,8 @@ Aplicação de Linha de comando que tem duas funcionalidades:
 1. Gerar QRCode no terminal
 2. Gerar uma senha segura
 
-- Para iniciar a ferramenta basta rodar o script : <npm run start> Após a inicialização digitar a opção desejada de
-  acordo com a instrução do prompt.
+- Para iniciar a ferramenta basta rodar o script: ```npm run start```
+- Após a inicialização digitar a opção desejada de acordo com a instrução do prompt.
 
 ### Gerando QR-Code
 
